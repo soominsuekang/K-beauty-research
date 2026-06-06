@@ -142,4 +142,4 @@ None to drop yet — this is day 1 of the IE-track, so no signal has been silent
 
 ---
 
-Saved to repo: daily_data/2026_06_06/ireland-signal.md, commit SHA: {pending}
+Saved to repo: daily_data/2026_06_06/ireland-signal.md, commit SHA: 7f28796
