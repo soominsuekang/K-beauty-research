@@ -1,0 +1,31 @@
+{
+  "date": "2026-06-06",
+  "jobs": [
+    {
+      "job_id": "viral_korean_skincare_7d",
+      "count": 50,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-06/fastmoss_raw/viral_korean_skincare_7d.json"
+    },
+    {
+      "job_id": "viral_kbeauty_7d",
+      "count": 30,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-06/fastmoss_raw/viral_kbeauty_7d.json"
+    },
+    {
+      "job_id": "promoted_skincare_monthly",
+      "count": 30,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-06/fastmoss_raw/promoted_skincare_monthly.json"
+    },
+    {
+      "job_id": "popular_music_uk",
+      "count": 20,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-06/fastmoss_raw/popular_music_uk.json"
+    },
+    {
+      "job_id": "popular_hashtag_uk_7d",
+      "count": 20,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-06/fastmoss_raw/popular_hashtag_uk_7d.json"
+    }
+  ],
+  "finished_at": "2026-06-06T22:30:46.565804"
+}
