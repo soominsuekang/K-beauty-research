@@ -25,7 +25,97 @@
       "job_id": "popular_hashtag_uk_7d",
       "count": 20,
       "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-07/fastmoss_raw/popular_hashtag_uk_7d.json"
+    },
+    {
+      "job_id": "viral_korean_skincare_28d",
+      "count": 50,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-07/fastmoss_raw/viral_korean_skincare_28d.json"
+    },
+    {
+      "job_id": "viral_kbeauty_28d",
+      "count": 50,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-07/fastmoss_raw/viral_kbeauty_28d.json"
+    },
+    {
+      "job_id": "promoted_all_monthly",
+      "count": 50,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-07/fastmoss_raw/promoted_all_monthly.json"
+    },
+    {
+      "job_id": "promoted_beauty_monthly",
+      "count": 50,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-07/fastmoss_raw/promoted_beauty_monthly.json"
+    },
+    {
+      "job_id": "creator_james_welsh",
+      "count": 1,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-07/fastmoss_raw/creator_james_welsh.json"
+    },
+    {
+      "job_id": "creator_zhilabeauty",
+      "count": 1,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-07/fastmoss_raw/creator_zhilabeauty.json"
+    },
+    {
+      "job_id": "creator_graces_faces",
+      "count": 1,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-07/fastmoss_raw/creator_graces_faces.json"
+    },
+    {
+      "job_id": "creator_frishta",
+      "count": 1,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-07/fastmoss_raw/creator_frishta.json"
+    },
+    {
+      "job_id": "creator_cindy_lee",
+      "count": 1,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-07/fastmoss_raw/creator_cindy_lee.json"
+    },
+    {
+      "job_id": "ai_ecom_video_rank_uk",
+      "count": 39,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-07/fastmoss_raw/ai_ecom_video_rank_uk.json"
+    },
+    {
+      "job_id": "viral_korean_skincare_90d",
+      "count": 50,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-07/fastmoss_raw/viral_korean_skincare_90d.json"
+    },
+    {
+      "job_id": "viral_kbeauty_90d",
+      "count": 50,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-07/fastmoss_raw/viral_kbeauty_90d.json"
+    },
+    {
+      "job_id": "topselling_all_weekly",
+      "count": 50,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-07/fastmoss_raw/topselling_all_weekly.json"
+    },
+    {
+      "job_id": "topselling_beauty_weekly",
+      "count": 50,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-07/fastmoss_raw/topselling_beauty_weekly.json"
+    },
+    {
+      "job_id": "topselling_skincare_weekly",
+      "count": 50,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-07/fastmoss_raw/topselling_skincare_weekly.json"
+    },
+    {
+      "job_id": "search_brand_numbuzin",
+      "count": 20,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-07/fastmoss_raw/search_brand_numbuzin.json"
+    },
+    {
+      "job_id": "search_brand_biodance",
+      "count": 20,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-07/fastmoss_raw/search_brand_biodance.json"
+    },
+    {
+      "job_id": "search_brand_centellian24",
+      "count": 19,
+      "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-07/fastmoss_raw/search_brand_centellian24.json"
     }
   ],
-  "finished_at": "2026-06-07T10:53:37.532857"
+  "finished_at": "2026-06-07T11:21:39.540107"
 }
