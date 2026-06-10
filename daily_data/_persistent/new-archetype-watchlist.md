@@ -19,6 +19,7 @@
 | 2026-06-08 | @jahanararahman_ | UK ~200-400k. "Busy mum on the go" Erborian paid review, 1.3M views @ 1.86% ER. | busy-mum-time-poor | yes (0/8) | None of the 8 carry the 28-35 mum register. Distinct demographic + tone. Watch for second busy-mum creator. |
 | 2026-06-09 | @omotoyosi (Omotoyosi) | UK ~5.8k. Picky-app referral code pusher; not a product reviewer. K-beauty hashtag-cluster + organic flag surfaced her. 25.49% ER on thin base = referral-list artifact. | creator-economy-recruiter | yes (0/8) | First instance. Transactional / MLM-adjacent; no product judgement. May be noise-cluster (surge-pool artifact) rather than promotable archetype. Watch but probably down-weight. |
 | 2026-06-09 | @poppylivingstonex | UK ~36.4k. Medicube week-1 "results insane" convert; first-time entry into K-skincare context. Lifestyle creator → paid stack. | paid-tier-mid-convert | partial (Persona 4 tone, no relationship layer) | Belongs to the existing Paid-push tier (Chloe Ferry/Nath Henry/Stephanie Vavron lane). That tier is documented in persona-cards but does NOT have a numbered persona card — the 8 cards model organic-strong creators only. **Eligible for promotion to Persona 9 = "The Paid-Tier Mid-Convert" if a second instance lands this week.** |
+| 2026-06-10 | — (no add) | **No additions this cycle.** UK K-viral crawl regressed for 2nd consecutive day; source `creator-uk-female.md` deep-dived @nathhenry (DROPPED, paid-tier male — pre-excluded by cards §brand-creator split, not an outlier) and parked 10 K-skincare-UNVERIFIED alt-surge candidates. Refused to promote unverified candidates on category-tag proxies. Two conditional parked-watch flags noted in `daily_data/2026-06-10/creator-demo-map.md`: @sewfy (would feed beauty-adjacent lifestyle cluster if K-content confirmed) and @homeandbeautyobsessed (Maxine Earle, 35–44, Lip Treatments / Moisturizers — would be 2nd entry in `busy-mum-time-poor` cluster if K-content confirmed). | logged | n/a | Audit-trail entry; not a creator entry. Routine ran, no K-verified outliers surfaced. |
 
 ## Cluster totals (rolling)
 
@@ -31,9 +32,13 @@
 | creator-economy-recruiter | 1 | 1 | probable noise-cluster; deprioritise |
 | paid-tier-mid-convert | 0 | 1 | de-facto archetype that the 8-card model already excluded; eligible for explicit Persona 9 if confirmed |
 
-## 9th persona — proposal status as of 2026-06-09
+## 9th persona — proposal status as of 2026-06-10
 
-**Not yet.** No cluster has 3+ entries. Two clusters at 2 partial-fit weight (paid-tier-mid-convert × poppylivingstonex + the documented Chloe/Nath/Stephanie cohort; credentialed-verdict at 1) are closest to threshold.
+**Not yet.** No cluster has 3+ entries. Cluster totals unchanged from 2026-06-09 (06-10 added no strict K-verified entries; the 06-10 row above is an audit-trail entry, not a creator entry).
+
+**06-10 update on cluster trajectories**:
+- `paid-tier-mid-convert` — the 06-10 source's @nathhenry deep-dive (9-day BOJ-silence post-launch) reads BOJ-UK as buying one-off SKU activations rather than building a paid stable. This **weakens the *promotion-readiness*** of this cluster: if the underlying behaviour is transactional rather than a creator-type, "Paid-Tier Mid-Convert" may not promote into a stable Persona 9 even if a 2nd @poppylivingstonex-like instance lands. **Reframe threshold**: instead of 2 more entries, require 2 more entries *AND* evidence of a sustained brand-stable behind them (≥2 K-posts per creator in a rolling 21d window).
+- `busy-mum-time-poor` — closest conditional advance. **@homeandbeautyobsessed (Maxine Earle, 35–44, Lip Treatments / Moisturizers)** surfaced 06-10 on the UK risingstar diff but K-skincare-unverified — would be the 2nd entry to this cluster if next clean K-viral crawl confirms her crossover. **Highest-leverage candidate to promote** on next crawl recovery.
 
 **Most-likely 9th when triggered**:
 1. **The Paid-Tier Mid-Convert** — UK lifestyle creator 30-60k followers, first-week brand-seeded post (Medicube/Dr.Melaxin), "results insane" or before/after timeline hook, enthusiastic-convert tone. Distinct from Persona 4 (Frishta) because no relationship-vulnerability layer; distinct from Persona 5 (Cindy Lee) because brand-seeded not identity-statement; distinct from Persona 6 (iona) because no list/curatorial frame. Demographic: 22-28 white British lifestyle generalist. Ethos: "I just tried this and the results changed me" — a sponsored conversion narrative rather than an organic curation. Only fires inside a paid stack.
