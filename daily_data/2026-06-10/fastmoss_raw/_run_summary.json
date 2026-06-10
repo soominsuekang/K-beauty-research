@@ -38,7 +38,7 @@
     },
     {
       "job_id": "newlisted_skincare_gb",
-      "count": 30,
+      "count": 25,
       "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-10/fastmoss_raw/newlisted_skincare_gb.json"
     },
     {
@@ -57,5 +57,5 @@
       "output": "/Users/soominkang/K-beauty-research/daily_data/2026-06-10/fastmoss_raw/deep_video_top10.json"
     }
   ],
-  "finished_at": "2026-06-10T12:11:15.178131"
+  "finished_at": "2026-06-10T23:53:49.357850"
 }
