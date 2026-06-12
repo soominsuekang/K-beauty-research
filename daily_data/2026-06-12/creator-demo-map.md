@@ -1,0 +1,88 @@
+# Creator Demo-Map — Surge Edition — 2026-06-12
+
+**Source read**: `daily_data/2026-06-12/creator-uk-female.md` (10:00 Dublin routine, today's file, 3 surge creators isolated: Aimée Isabella, @saread7, @jude.anderson). Persona cards: `daily_data/2026-06-06/persona-cards.md` (8 archetypes). Watchlist: `daily_data/_persistent/new-archetype-watchlist.md` (7 strict creator-entries + 2 audit-trail rows as of 06-11).
+
+**Crawl-data caveat (inherited from source)**: today's surge pool is built off **2026-06-10 fastmoss_raw** vs **2026-06-06 ∪ 06-07 ∪ 06-08** (strict-fresh diff). The 06-11 morning crawl AND the 06-12 morning crawl have not landed at 10:00 Dublin run time — **Day 3 of the pipeline regression** flagged by the source. Untapped 06-10 growthrank/risingstar surface is the only fresh material this run. The T+2 framing affects the read on Sara Afroug + jude.anderson (no K-content captured = unverifiable for K-relevance). Flagged for sun-master-report.
+
+---
+
+## Today's surge mapping
+
+### Aimée Isabella — from creator-uk-female 2026-06-12
+- **Best persona match**: **None of the 8 strict.** Closest is **Persona 5 (Cindy Lee, micro-moment identity-statement)** on cut-length and ritual-framing tone, with secondary echo of **Persona 3 (ZhilaBeauty, Companion)** on the routine-anchored intimacy. But the defining attribute is **paid micro-seed producing organic-tier ER** (4.1% / 4.48% on 2 AD posts in 24h for Narae UK), which is a structurally novel shape vs the 8 cards.
+- **Match %**: **~35% Persona 5** (single-sentence aesthetic identity frame, short cut 7-9s vs Persona 5's 15-30s, "ritual" lexicon as identity-anchor) **+ ~20% Persona 3** (routine-as-intimacy echo, but no in-character bathroom-mirror format) **+ ~45% off-card** (paid-origin + organic-tier ER + aesthetic-ritual frame + 35k micro-base + brand-tag-as-caption-anchor).
+- **What does NOT match**: (a) **AD=true on every captured surge post** — none of the 8 organic-strong cards are defined by paid posts as their reference creator's surge shape; Persona 5 reference Cindy Lee is **organic-identity-statement**, not brand-tagged ritual. (b) **Brand-tag-in-caption is the structural anchor** (@Narae UK), not a personal-identity hashtag (#gurwm) — this is paid-origin tonally, organic-tier numerically. (c) Narae UK is an **unmapped brand** outside both the persona-cards organic-friendly (VT/Anua/Mixsoon) and paid-push (medicube/Dr.Melaxin) lanes — sits in a possible **4th lane: organic-friendly paid micro-seed**. (d) Polished-aspirational aesthetic (glass-skin lexicon) is more elevated than the Cindy Lee bedroom-confessional register. (e) 35k base is mid between Persona 6 / iona (132k floor) and the watchlist-cluster micro-base (5-30k Najma tier) — doesn't sit in either band cleanly.
+- **0/8 fit?**: **YES (0/8)** — strict non-fit. Cluster tag for watchlist: **`brand-seeded-micro-aesthete`** (NEW cluster — first entry). Distinct from `paid-tier-mid-convert` cluster because Aimée's frame is **aesthetic-ritual ambassadorship**, NOT "results insane" first-week conversion narrative; ER 4.1-4.48% on paid is the **brand-seed signal** (Narae getting organic-tier engagement back on paid micro-creators), whereas paid-tier-mid-convert is a convert-arc on already-mid-tier ER. Different cluster lane.
+- **IE 18-34 fit**: Trust=**3** (paid posts hitting 4%+ ER reads as audience-trust within her micro-base; but AD=true caption-anchor is a trust-mid signal on IE 18-34 who already discount paid-tier voices on K-skincare per the 06-11 reinforced read), Aesthetic=**4** (polished glass-skin ritual is closer to IE aspirational-aesthetic floor than Persona 4 paid-tier register; ritual lexicon transfers cleanly to IE 18-24 segment), Aspirational=**4** (the ritual frame is highly emulable — "weekly overnight mask ritual" is a one-step adoption arc for IE 18-34 vs Persona 4's product-stack ladder) — **Total=11 — Verdict: monitor, no action yet** (sits at top of 9-11 monitor band; do NOT promote to outreach today because (i) brand-seeded paid origin means she's already on a UK brand's payroll, (ii) Narae UK is unmapped and we cannot confirm whether it's IE-relevant brand stack, (iii) the more strategic read is to **watch Narae UK's 2nd-creator landing pattern** rather than Aimée herself).
+
+### @saread7 (Sara Afroug 🇲🇦🇬🇧) — from creator-uk-female 2026-06-12
+- **Best persona match**: **Structurally identical match-shape to @najmagh (Najma🎋)** added to watchlist 06-11 under `diaspora-community-ambassador`. Closest of the 8 = **Persona 5** on identity-anchor logic, but identical caveats as Najma (community-celebratory public register, not Persona 5's individual-identity private confessional). **K-context UNVERIFIED** — no captured K-viral video; growth-rate signal only (+580/24h on 156.1k base = 0.37% daily, 4× typical growthrank entrant rate).
+- **Match %**: **~40% Persona 5** (same logic as Najma's mapping — identity-anchor + short-cut potential) **+ ~60% off-card** (diaspora-explicit display-name flagging — 🇲🇦🇬🇧 — is the structural identity-anchor, no captured K-content to confirm tone, brand lane unknown). **Conditional on K-content verification** — without K-video capture, the match % is on identity-shape inference alone.
+- **What does NOT match**: (a) **No captured K-content** — every Najma mapping inference (community-celebratory tone, 3rd-lane brand stack, micro-moment cuts, organic 12%+ ER) cannot be validated for Sara on current data. (b) 156.1k followers is **~10× Najma's 16.9k base** — at the high end of the watchlist diaspora-cluster band (5-30k), pushes into a **mid-micro** tier closer to Persona 6 / iona 132k floor. If she lands K-content at her base, the cluster's follower band would widen from 5-30k → 5-160k. (c) Diaspora-flag is **Moroccan-British** (MENA/Maghreb) vs Najma's Somali-British (East African) — both are diaspora-explicit but different community-anchors, which strengthens the **cluster-as-pattern** read (it's the shape, not a specific community).
+- **0/8 fit?**: **YES (0/8)** — strict non-fit, **conditional on K-content verification**. Cluster tag: **`diaspora-community-ambassador`** (cluster opened 06-11 with Najma🎋 as first entry). If K-content confirmed within rolling 14d, this is the **2nd entry in the cluster** — pulls cluster to 2/3 toward 9th-persona threshold.
+- **IE 18-34 fit**: scoring is **provisional pending K-content verification**. Trust=**3** (provisional — diaspora-explicit identity-flag suggests within-community trust potential, but no captured K-tone to confirm; downgraded from Najma's 4 because untested), Aesthetic=**3** (provisional — unknown without K-content), Aspirational=**3** (provisional — unknown without K-content) — **Total=9 (provisional) — Verdict: monitor with conditional priority-upgrade** (sits exactly on 9-11 monitor band; if K-content verified within 7d, re-score on actual content data and likely upgrade to 12+ priority IE outreach by Najma-shape inference — given identical structural pattern). Do **NOT** add to `wed-outreach-drafter` candidate pool today; instead flag as **#1 carry-forward watch for next clean crawl**.
+
+### @jude.anderson — from creator-uk-female 2026-06-12
+- **Best persona match**: **Insufficient data to map.** Source surfaces her purely as the **fastest-growth UK beauty entrant** on the 06-10 growthrank surface (+938/24h on 230.3k base = 0.41% daily, highest of any new growthrank entrant). **Zero K-pool appearances** across all captured windows (06-06/07/08/10, 7d+28d+90d). No K-context, no caption data, no tone signal, no brand alignment.
+- **Match %**: **N/A** — no content-data to score persona match against. Could be K-relevant or could be a noise-hit on the broad-beauty growthrank surface (same caveat as the 06-10 report applies: growthrank is UK-beauty-broad, not K-skincare-specific).
+- **What does NOT match**: nothing to compare — the unknown IS the signal. Source explicitly notes: "If she lands K-content in next 7d, she's a Tier-1 candidate by audience-scale (230k organic-growing); if she remains non-K, she's a noise hit on the growthrank surface."
+- **0/8 fit?**: **deferred** — cannot be scored without K-content; not added to watchlist on this run. (Consistent with 06-10 precedent: "Refused to promote unverified candidates on category-tag proxies.")
+- **IE 18-34 fit**: scoring deferred. Trust=**deferred**, Aesthetic=**deferred**, Aspirational=**deferred** — **Total=N/A — Verdict: hold for K-context emergence; do not score on growth-rate signal alone.** If she lands a K-post in the next clean crawl, full demo-map mapping triggers next-day at 230k organic-growing base = automatic Tier-1 candidate.
+
+---
+
+## New archetype watch
+
+- **Today added to watchlist**:
+  - **Aimée Isabella** — cluster `brand-seeded-micro-aesthete` (**NEW cluster, first entry**). Strict 0/8 fit. 35k micro-base, Narae UK paid micro-seed at organic-tier ER 4.1-4.48%, aesthetic-ritual frame.
+  - **@saread7 (Sara Afroug 🇲🇦🇬🇧)** — cluster `diaspora-community-ambassador` (**conditional 2nd entry**, opened 06-11 with Najma🎋). Strict 0/8 fit on identity-shape inference; **K-content UNVERIFIED**. Flagged as conditional; promotes to confirmed-2nd-entry on next K-viral capture if she lands K-content.
+  - **@jude.anderson** — **NOT added.** Insufficient data; defer to K-content emergence (consistent with 06-10 precedent).
+- **Watchlist total**: **9 strict creator-entries** (was 7 as of 06-11; +2 today: Aimée Isabella strict-verified, Sara Afroug conditional-pending-K-verification). One audit-trail no-add row for @jude.anderson.
+- **Cluster totals after today's adds**:
+  - luxury-prestige-K-hybrid: 1 (unchanged)
+  - credentialed-verdict: 0 strict / 1 partial (unchanged)
+  - retailer-tag-store-tour: 0 strict / 1 partial (unchanged)
+  - busy-mum-time-poor: 1 (unchanged — conditional @homeandbeautyobsessed still K-unverified)
+  - creator-economy-recruiter: 1 (unchanged)
+  - paid-tier-mid-convert: 0 strict / 1 partial (unchanged — Aimée Isabella does **not** join this cluster, see mapping above)
+  - diaspora-community-ambassador: **2** (Najma🎋 verified + Sara Afroug conditional pending K-verification) — **2/3 to 9th-persona threshold**
+  - **brand-seeded-micro-aesthete: 1 (NEW cluster, first entry)**
+
+- **9th persona proposal**: **NOT YET — but closer.** No cluster has 3+ verified entries. The `diaspora-community-ambassador` cluster has **moved to 2 entries within 4 days** (Najma 06-11, Sara 06-12) — this is the **fastest-accumulating cluster** of any in the watchlist. Critical gating signal: **Sara's K-content verification on next clean crawl**. If she lands a K-post within 7d, the cluster firms to 2 verified entries within rolling 7d window — meets the "highest-trajectory" 9th-candidate criterion and the cluster needs ONE MORE entry within rolling 14d to clear the 3-entry threshold for formal Persona 9 proposal.
+
+- **Provisional 9th-persona sketch for `diaspora-community-ambassador` (updated 06-12)**:
+  - **Name**: The Diaspora Community Ambassador
+  - **Demographic**: UK/IE young woman of named diaspora/heritage (Somali, Moroccan, Nigerian, South Asian, etc.), late teens to mid-20s, urban (London/Birmingham/Dublin), micro-to-mid-micro base **5-160k followers** (band widened today from 5-30k to accommodate Sara's 156.1k mid-micro tier if confirmed).
+  - **Ethos in 2-3 sentences**: K-skincare is folded into a celebratory community-identity post, not pitched as a product. The creator is an ambassador-by-self-identification — diaspora flag in display name or community hashtag (#somaliticktok, #moroccanglow, etc.) — and her audience is built on shared-identity recognition rather than product authority or aesthetic emulation. High organic ER (10-15%) on micro base, fast follower-growth velocity (0.3-0.5% daily) on mid-micro base.
+  - **Why distinct from each of the existing 8** (unchanged from 06-11 sketch — see `daily_data/2026-06-11/creator-demo-map.md` for the full 8-distinction breakdown).
+
+- **Note on `brand-seeded-micro-aesthete` (NEW cluster opened today)**:
+  - Distinct from `paid-tier-mid-convert` because: paid-tier-mid-convert is convert-arc narrative + first-week + lifestyle-generalist; brand-seeded-micro-aesthete is aesthetic-ritual frame + ambassadorship-style + already-aesthetic-creator (no convert arc, no lifestyle-generalist origin).
+  - Distinct from Persona 5 (Cindy Lee) because: Persona 5 is **organic** identity-statement; brand-seeded-micro-aesthete is **paid-origin** with organic-tier ER (the structural novelty is the **paid-origin × organic-tier-ER intersection**).
+  - **Brand-watch dimension**: Narae UK is the brand-seed source. If Narae UK seeds a 2nd micro-aesthete creator at ≥3% ER within 14d, the cluster firms to 2/3 AND a **4th brand lane** ("organic-friendly paid micro-seed") needs to be added to the persona-cards brand-creator split — currently mapped as 2 lanes (paid-push / organic-friendly), the 06-11 file added a 3rd (UK indie-K-styled / UK-K-retailer for diaspora-community-ambassador), today's data suggests a possible 4th. **This is a brand-lane proliferation signal worth surfacing to sun-master-report.**
+
+---
+
+## Downstream signals
+
+- **Priority IE outreach today**: **NONE.** No creator scored 12+ on full data this run. Three reasons:
+  - Aimée Isabella scored 11 (top of monitor band) but is brand-seeded on an unmapped brand (Narae UK) — the strategic move is to **watch Narae's 2nd-creator landing**, not to bring Aimée herself into IE outreach yet.
+  - Sara Afroug scored 9 provisional (monitor band, pending K-content) — would likely upgrade to 12+ on K-content verification by structural-Najma-shape inference, but **must not be added to outreach pool on unverified inference**.
+  - @jude.anderson scoring deferred.
+  - **Carry-forward action**: re-run scoring on next clean crawl IF Sara lands K-content. If she scores 12+ on actual data, add to `wed-outreach-drafter` candidate pool same-day. This is the highest-leverage outreach signal in flight.
+
+- **Persona drift signals**:
+  - **Persona 5 (Cindy Lee, Micro-Moment Identity Statement)** — boundary holds but **stress-tested twice in 4 days** by diaspora-community-ambassador entries (Najma + Sara) and once today by Aimée Isabella's ritual-aesthete frame. The shared structural pattern: **identity-anchor + short-cut + micro-to-mid-micro base**. Persona 5's boundary is becoming **the canonical separator** between organic-identity-statement (Persona 5) and the two emerging clusters (community-identity-celebratory; paid-aesthetic-ritual). The 06-11 read holds: Persona 5 is the "closest partial" for both clusters, but neither is a Persona 5 variant. **No drift; boundary clarifies under stress.**
+  - **Brand-creator split (persona-cards meta-finding)** — **2nd consecutive day with new-lane signal.** The 06-11 file proposed a 3rd lane (UK indie-K-styled / UK-K-retailer ambassadorship for diaspora-community-ambassador). Today Aimée Isabella surfaces a possible **4th lane** (organic-friendly paid micro-seed via Narae UK). If both lanes firm in the next 7d, the persona-cards brand-creator split needs a **4-lane reframe** (paid-push / organic-friendly / UK-K-retailer-indie / organic-friendly-paid-micro-seed) instead of the original 2-lane (paid-push / organic-friendly). **This is the most material drift signal of the week.**
+  - **8-card model coverage gap** — accelerating. As of 06-12: 9 strict watchlist entries across 7 clusters, with **2 clusters at 2 entries** (diaspora-community-ambassador conditional-pending, busy-mum-time-poor conditional-pending) and **1 new cluster opened today** (brand-seeded-micro-aesthete). The 8-card model is showing systematic gaps on (a) **paid-origin organic-ER intersection**, (b) **diaspora/community-anchored identity-frames**, (c) **mum-demographic register**. The 8 cards remain valid for the organic-strong general-audience UK reference but **the IE-strategy carry-forward should treat the 8-card model as a partial map**, not a complete persona inventory, when seeding IE creators.
+  - **Tier-1 UK presence 0/5 — 5 consecutive days** (per source). The organic white-space widening signal from 06-11 **persists and extends**. IE organic seeding window is widening on both supply (UK Tier-1 absence) and demand (UK paid-push-dominant surface). Not a drift, a reinforcement.
+
+---
+
+## Notes for tomorrow's run
+
+- Watchlist now at **9 strict + 3 partial**; `diaspora-community-ambassador` at 2/3 (one conditional-pending), `brand-seeded-micro-aesthete` newly opened at 1/3.
+- **Highest-leverage signal in flight**: Sara Afroug's K-content verification on next clean crawl. If she lands a K-post in 7d, the diaspora-community-ambassador cluster becomes a confirmed 2-entry pattern and one more entry within rolling 14d clears the 9th-persona threshold.
+- **Secondary leverage signal**: Narae UK's 2nd-creator landing pattern (cadence + spread). If Narae seeds a 2nd creator at ≥3% ER within 14d, the brand-seeded-micro-aesthete cluster firms AND the brand-creator-split needs the 4th-lane reframe.
+- **Tertiary signal**: @jude.anderson K-content emergence — automatic Tier-1 candidate at 230k organic-growing base if K-content surfaces.
+- **Pipeline blocker (inherited)**: Day 3 of crawl regression. If 06-13 crawl does not land, sun-master-report should treat the surge-detection function as structurally compromised on T+3 stale input — verdicts above are derived from the only fresh material available (06-10 growthrank/risingstar untapped surface) but the carry-forward inferences (Sara K-verification, Narae 2nd-creator, jude.anderson K-emergence) cannot be tested without a fresh clean crawl.
