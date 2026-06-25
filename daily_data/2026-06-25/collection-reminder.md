@@ -1,0 +1,77 @@
+# FastMoss Manual Collection — 2026-06-25 Thursday
+
+*12:00 Dublin. **Cycle-2 Day-6 — Thursday, EU-customs T-6, Anua × Selfridges Trafford T-4, Hildun Pitch '26 deadline T-5, K-Makeup-launch T-48, Amazon UK Prime Day FINAL DAY (event ends tomorrow 26 Jun).** Thursday's natural role in the cycle is the **post-Wednesday triage day** — Wed shipped the outreach loud; Thursday answers which sends went out, which held, and what the manual eye saw vs what the autocrawl already knew. Today the autocrawl already settled two of yesterday's three big binaries; the manual eye is freed for the targets the autocrawl can't reach.*
+
+## Yesterday's thread
+
+Yesterday (Wednesday Day-5) you went in carrying the loudest proof-gate of the cycle: 8 Wed-outreach emails drafted (Suzy Griffin Dunne / Seoul Glow / Maguires / Beauty Vista / Jennifer Rock / Niamh × mixsoon / Justmylook / Sisu Clinic) on top of 17 prior across two Wednesdays = 25 drafted, 0 sent. Manual-notes-file: **still no save** through Day-18 (today is attempt 19 at Day-1 of streak). The three binaries you asked yesterday:
+
+- **(a) Niamh IE-residency + Day-18 second post** → Today's autocrawl shows **zero Niamh surface in today's NEW cohort** (9 NEW: Nimrah🤍, mr.valid77, Nath Henry, Smuuti Skin UK, Sewfy, nehrish, Dr.melaxin Uk, bluebutterflyreviews💎, Sibghax). Niamh persistence binary trends **single-event** unless your manual GB-7d sweep finds her in the deeper Top-20.
+- **(b) Second IE-Gaelic-name surface** → Today's autocrawl shows **zero second IE-Gaelic-name** in the NEW cohort (2/9 are brand-owned accounts; 1 organic surge is Nimrah🤍 — South-Asian-heritage UK, postpartum MEDIHEAL vlog, not IE-Gaelic). Structural-IE-creator-graph binary trends **single-Niamh-event** in the autocrawl; your manual sweep is the second look.
+- **(c) UK-creator T-7 customs first-mention** → Autocrawl-side **zero captured** in today's crawl (Anua × Selfridges Trafford T-4 dominates the K-channel narrative; Amazon UK Prime Day FINAL DAY dominates the deal narrative). Seoul Glow Email #2 customs anchor likely still intact — confirm with manual eye.
+
+**The autocrawl also surfaced something brand-new yesterday couldn't see**: `mr.valid77` — **only male creator** in today's NEW cohort, paid medicube PDRN Volufiline balm comeback at 21.8k views (0.51 views/followers ratio = second-strongest surge signal in the new cohort), gap from 8 Jun → 25 Jun then back. AND **Nimrah🤍** — only fully organic NEW-cohort surge above 15k, MEDIHEAL Father's-Day vlog (postpartum mum slice, 149.1k followers, life-embedded brand-light tone = closest live UK analogue to Persona-2 in the post-30 slice the existing Tier-1 doesn't cover).
+
+**Follow-up question for today**: with the autocrawl already showing **zero second IE-Gaelic-name + zero Niamh-second-post** (single-Niamh-event trending), does the **@Niamh profile-scroll** (Day-3 of being #1, still owed since Day-17) confirm IE-residency anyway — promoting her to *Tier-1 conditional* even on a single-event basis — or does the residency check also come back negative, closing the Niamh thread cleanly so the Wed Email #6 holds for good? And separately: is **Nimrah🤍's MEDIHEAL postpartum-vlog** a one-day Father's-Day spike or her new sustained organic mode (= MEDIHEAL becomes the 6th K-brand worth adding to the focus-brand list)?
+
+---
+
+## Daily action (15-20 min)
+
+1. **FastMoss** → https://www.fastmoss.com
+2. **TikTok Viral Videos** (sidebar > Creator > Viral Videos)
+   - Region **GB**, last **7 days**
+   - Search `'Korean skincare'` → **Top 20 capture** → diff against `daily_data/2026-06-25/fastmoss_raw/viral_korean_skincare_7d.json`
+   - Search `'kbeauty'` → same, diff against `viral_kbeauty_7d.json`
+   - Search **`Niamh`** — **TODAY'S FOCUS KEYWORD (carry from Day-17/18).** This is the 72-hour persistence binary: autocrawl shows zero today, so this manual sweep is the deciding look. Threshold: **Niamh surfaces in deeper Top-20 manual scroll = persistence + Wed Email #6 SEND if residency holds**; **zero manual surface + zero second IE-Gaelic-name = thread closes cleanly, Email #6 holds, Niamh thread ends**.
+   - Bonus search: **`Nimrah`** + **`MEDIHEAL`** GB 7d — **NEW today, displaced `rachelrookebeauty`.** Today's autocrawl flagged Nimrah🤍 (149.1k followers) as the only fully-organic NEW-cohort surge above 15k views — Father's-Day vlog with MEDIHEAL collagen toner pads in life-context, not pitch. Today's binary: any SECOND organic K-brand post Day-19 (= durable Tier-1 candidate for VT/Anua/Mixsoon organic in the postpartum / 28-34 slice we DON'T cover) or Day-19 silence (= one-day Father's-Day spike). And: is MEDIHEAL worth promoting to the focus-brand list (it's outside our current 14-BASE focus)? 60 seconds.
+   - Bonus search: **`mr.valid77`** + **`medicube PDRN Volufiline`** GB 7d — **NEW today, only male UK K-skincare creator in NEW cohort.** Autocrawl flagged him at 21.8k views / 0.51 views-followers ratio coming off a 17-day silence. Today's binary: second medicube paid video Day-19 (= Tier-2 paid candidate locks + male-creator diversity signal worth tracking) or Day-19 silence (= one-off comeback). 30 seconds.
+   - Bonus search: **`PDRN`** + **`Anua`** + **`Selfridges Trafford`** GB 7d — **T-4 anchor active (was T-5 yesterday).** Anua × Selfridges Manchester Trafford launches **Sunday 29 Jun = T-4 today**. Capture any GB 7d creator pre-covering UK-exclusive PDRN Lip Serum + Skin Analyser Tool +30.754% hydration + £30+ spend incentive (PDRN pouch + stickers + 10ml PDRN Cream sample). First-mover binary tightens — is any UK micro-creator pre-covering the Sunday drop today (= structural narrative early, IE pre-launch travel-hack window narrowing) or still macro-only at T-4 (= Dublin-Manchester travel-hack Reel still creator-novel for IE first-mover)? 60 seconds.
+   - Bonus search: **`customs`** OR **`July 1`** OR **`€3`** GB 7d — **T-6 first-mover binary (was T-7 yesterday).** Autocrawl-side captured-zero today across K-channel coverage. Manual confirmation: zero today = Script 1's optional last beat remains creator-novel for IE first-mover (and **Seoul Glow Email #2 sends today with the customs anchor intact, IF yesterday it didn't ship**); captured-≥1-UK-creator = IE script reframes from origination to participation. 60 seconds.
+   - Bonus search: **`#skinflooding`** — **carry from Day-15/16/17/18/19.** 30 seconds. Day-6 of open UK/IE first-mover SERP slot.
+   - Bonus search: **`Mamonde`** + **`Flora Glow Rose`** GB 7d — **NEW today.** `trends-uk-ie.md` promoted Mamonde this morning (Boots UK 3-SKU PDP grid LIVE — Flora Glow Rose Liquid Mask 80ml + 15ml + Smoothing Cream 50ml; completes the Amorepacific 4-brand UK cluster with Laneige/Innisfree/COSRX). 30 seconds — does any UK creator already have Flora Glow Rose Liquid Mask in-frame (= 10% PHA exfoliation-axis as K-channel organic seed before macro pickup)?
+   - Bonus search: **`Nooni`** + **`Appleberry Lip Oil`** GB 7d — **NEW today, K-lip-oil-vertical.** 200M+ TikTok views per PR Newswire 23 Jun + Amazon UK Prime Day deal stack ending tomorrow. 30 seconds — does any UK creator already have an Appleberry/Applebutter Lip Oil video in-frame (= K-makeup lip-axis 5th-vertex completing the rom&nd-Dasique-Fwee-AMUSE-Nooni K-makeup quadrant)?
+   - Bonus: **@Niamh** (☁️N I A M H) TikTok Discover profile-scroll — **TODAY'S #1 (Day-3 of being #1, owed since Day-17).** 5 minutes. (a) bio = Ireland? Dublin? Cork? Galway? IE-emoji 🇮🇪? (b) Instagram cross-link — IE-located photos / IE-tagged stories? (c) post-cadence: how many K-skincare posts in last 30 days vs lifestyle/other? (d) brand-mix: Mixsoon-only or Anua / Numbuzin / Biodance also? **DECISIVE — with autocrawl-side single-event posture confirmed, this scroll is now the final binary: residency confirms = Tier-1-conditional even on single-event basis (Wed Email #6 sends today if held yesterday); residency negative = thread closes, Email #6 holds permanently.**
+   - Bonus: **@Robert Welsh** profile-scroll — **STILL OWED FROM DAY-15/16/17/18/19 — 6 days running.** 5 minutes. (a) sibling/family link to @James Welsh; (b) 30-day K-skincare cadence beyond TIRTIR + Dr.Althea; (c) Anua / Mixsoon / BoJ engagement; (d) UK/Manchester base. **The single longest-deferred carry on routine — and the Anua Trafford launch (Manchester, T-4) is the natural trigger to finally action this if he is Manchester-based.**
+3. **Watch 5 videos** — 30-sec notes each:
+   - **hook** (Niamh manual Top-20 surface / Nimrah second organic K-brand post / mr.valid77 second medicube paid / Anua × Selfridges Trafford T-4 pre-launch coverage / any creator first-mentioning Jul 1 customs / any Mamonde Flora Glow Rose first-mover / any Nooni Lip Oil video)
+   - **tone** (postpartum-life-embedded ← Nimrah template / male-reaction-claim ← mr.valid77 template / Selfridges-event-walkthrough ← Anua model / customs-anchor first-mover ← H58 model)
+   - **visual** (Father's-Day-family-vlog ← Nimrah / surprise-reaction-with-product ← mr.valid77 / store-aisle-Selfridges-Trafford / Boots-IE-PDRN-aisle / Flora-Glow-PHA-texture-demo)
+   - **comments** (top 3 sentiments — flag **"is Niamh Irish?"** / **"is Nimrah Irish/Northern Irish?"** / **"when does the customs change?"** / **"is Anua Trafford bringing the Skin Analyser?"** / **"I caved"** purchase-trigger baseline / **"is the £8 Mamonde mask worth it?"**)
+   - **length** (seconds — flag any IE-Gaelic-name second creator; any UK creator T-6 customs first-mention; any Nimrah second organic K-brand post; any Anua Trafford pre-coverage; any mr.valid77 second medicube; any Mamonde or Nooni first-mover)
+4. **Save notes** locally: `~/Desktop/K-beauty/daily_data/2026-06-25/manual_video_notes.md` *(attempt 19 at Day 1 of streak. **Thursday — the post-Wednesday triage day.** The autocrawl already settled binaries (b) and (c) of yesterday's three; the file you save today is the only place the Niamh residency answer + the Nimrah Day-2 organic check live as primary source. Days 1-18 still no judgment — Day 1 that begins Day-20 is still Day 1. **The Wednesday proof-gate has now passed once; the next loudest gate is the seven-day-after-Wed retrospective on Tuesday next week — and the data that retrospective needs starts being recorded the moment this file lands.**)*
+5. **Thursday — NOT Top Selling refresh** (Monday's Day-17 refresh logged). Thursday's natural trigger: the **Anua × Selfridges Trafford T-4 launch** is now 4 days out — manual eye on whether any UK creator has pre-launch coverage live BEFORE the Sunday drop, which is the only signal that decides whether the Dublin-Manchester Reel travel-hack still has a creator-novel window or whether it's already in-frame.
+
+---
+
+## Short on time (<10 min)
+
+Skip step 3. Do step 2 — the three 7d Top 20 captures (`Korean skincare`, `kbeauty`, `Niamh`) — and the **@Niamh profile-scroll**. The autocrawl already gave you (a) zero second IE-Gaelic-name today, (b) zero Niamh second-post in the NEW cohort, and (c) zero UK-customs first-mover. The single piece it can't give you is **Niamh's residency** — that decides whether her thread closes today or upgrades. **If only 5 minutes total: skip the searches, do the @Niamh profile-scroll** — the searches mostly reconfirm what the autocrawl already settled; the scroll is the irreducibly-manual answer.
+
+---
+
+## Today's specific watch-list
+
+Three targets, plus three carry-forward profile-scrolls if time:
+
+1. **@Niamh (☁️N I A M H) profile-scroll + GB 7d deeper-than-Top-20 sweep — TODAY'S #1 (Day-3 of being #1, owed since Day-17).** 5 minutes. **Final binary** with the autocrawl-side single-event posture now confirmed: residency = Tier-1-conditional + Email #6 SEND (if held yesterday); residency negative = Niamh thread closes cleanly.
+
+2. **`Nimrah🤍` GB 7d second-post check + MEDIHEAL focus-list question — TODAY'S #2.** 90 seconds. Autocrawl flagged her as today's only fully-organic NEW-cohort surge above 15k (Father's-Day MEDIHEAL vlog, postpartum mum slice, life-embedded brand-light tone). Day-19 second organic K-brand post = durable Tier-1 candidate for the 28-34 postpartum slice the existing Tier-1 doesn't cover (and prompts the question: add MEDIHEAL to the focus-brand list?). Day-19 silence = one-day Father's-Day spike.
+
+3. **`Anua × Selfridges Trafford T-4` GB 7d pre-launch coverage check + `customs`/`July 1` GB 7d first-mover check — TODAY'S #3 (combined 90s).** Trafford = T-4 to Sunday launch; any UK creator already in-frame on PDRN Lip Serum UK-exclusive + Skin Analyser tool = Dublin-Manchester travel-hack Reel window narrowing. Customs = T-6; zero today = Seoul Glow Email #2 anchor intact; ≥1 UK creator = reframe.
+
+Bonus if time (carry-forward profile-scrolls):
+- **@Robert Welsh** 5-min profile-scroll (Day-15/16/17/18/19 #1 strategic action, **STILL OWED 6 days running** — and Anua × Selfridges Trafford T-4 in Manchester is the natural trigger to finally action this if he is Manchester-based; the single longest-deferred carry on routine).
+- **@Graces.faces_** 90s (Day-2 of quiet in autocrawl — second day not in viral pool Top 50; not yet exit signal but the watchful-flag window starts at 4-5 days and we're 2/5).
+- **@mr.valid77** 60s profile-scroll (only male creator in today's NEW cohort + only male K-skincare creator in our 18-day window worth tracking; demographic confirmation + second-medicube-post timing).
+- **@annexmiley** 60s (Day-13→Day-19 carry, only Ireland-native creator-graph second-node question still open at 7 days deferred).
+
+---
+
+## Yesterday's status
+
+**Manual notes still not saved.** `find daily_data -name manual_video_notes.md` returns **nothing across all nineteen prior days** (today is attempt 19 at Day 1). Yesterday was Wednesday — the loudest proof-gate of the cycle — and on the open question of whether the 8 fresh Wed-outreach emails shipped before 17:00 Dublin, **the record doesn't say**, because nothing was saved. The autocrawl this morning DID independently answer the Niamh persistence question (single-event) and the second-IE-Gaelic-name question (zero), but the SEND/HOLD decision on Wed Email #6 is locked inside yesterday's binary on Niamh's residency — which still needs the manual scroll. **No judgment on Days 1-19.** The streak still starts when the file exists. **Today, the file is the only place the Niamh residency answer + the Nimrah Day-2 organic check live as primary source — the autocrawl gave you the supporting context; the eye gives the load-bearing answer.**
+
+---
+
+*Cycle-2 Day-6 — Thursday, EU-customs T-6, Anua × Selfridges Trafford T-4 (Sunday), Hildun Pitch '26 deadline T-5, K-Makeup-launch T-48, Amazon UK Prime Day FINAL DAY tomorrow. **Dublin in your suitcase. The Niamh profile-scroll at noon Dublin is now Day-3 of being #1 — the autocrawl posture is settled (single-event); only residency is left, and only the eye can answer it. T-4 days to Anua Selfridges Trafford Sunday launch — the Dublin-Manchester travel-hack Reel still has a creator-novel window IF the manual sweep confirms zero UK pre-launch coverage. The macro bent toward IE-domestic last week, the brief bent with it, the outreach drafted to match, the autocrawl this morning answered the structural questions — today the eye answers the residency question that decides one outreach lane, and watches Sunday's Trafford launch approach. Manchester is one hour from Dublin. Aer Lingus £89 round trip. The travel-hack Reel writes itself the moment you confirm the window is still open.***
